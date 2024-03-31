@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEWTON-3</string>
+    <string name="mulai">Start</string>
+    <string name="kembali">Back</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="hitung">Count</string>
+    <string name="input_invalid">Must not be empty.</string>
+    <string name="bagikan">Share</string>
+    <string name="gaya_gesek">Friction Force</string>
+    <string name="koefisien">Friction Coefficient</string>
+    <string name="gaya_normal">Normal Force</string>
+    <string name="gaya_gesek_x">The frictional force generated is %1$.2f N</string>
+    <string name="template1">Coefficient of Friction : %1$s \nNormal Force : %2$s N \n%3$s</string>
+    <string name="gaya_berat">Weight Force</string>
+    <string name="massa_benda">Object Mass</string>
+    <string name="gravitasi">Earth Gravity</string>
+    <string name="gaya_berat_x">The resultant weight force is %1$.2f N</string>
+    <string name="template2">Object Mass : %1$s kg \nEarth\'s Gravity : %2$s m/s2 \n%3$s</string>
+    <string name="berat_sejenis">Specific gravity</string>
+    <string name="massa_jenis">Density</string>
+    <string name="berat_benda">Object Weight</string>
+    <string name="berat_sejenis_x">The resultant specific gravity is %1$.2f N/m3</string>
+    <string name="template3">Density : %1$s kg/m3 \nObject Weight : %2$s N \n%3$s</string>
+    <string name="copyright">Newton\'s Law 3 says, Every action will cause a reaction. If an object exerts a force on another object, the object receiving the force will exert a force equal to the force received from the first object, but in the opposite direction.\n\nNEWTON-3 application is an application that can calculate every action that results in a reaction. There are 3 types of Newton\'s Law, namely friction, gravity, and similar weight. \n\nThis application is made to fulfill Assessment 1 - Mobpro 1. \n\nCopyright © 2024 Ghania Raushan Fayyaza (6706223034). \n\nAll rights reserved</string>
+    <string name="intro">Let\'s count the Laws of Action-Reaction!</string>
+</resources>

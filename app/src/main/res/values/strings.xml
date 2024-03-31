@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NEWTON-3</string>
+    <string name="mulai">Mulai</string>
+    
+    <string name="kembali">Kembali</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Bunyi Hukum Newton 3 adalah, Setiap aksi akan menimbulkan sebuah reaksi. Apabila suatu benda memberi gaya terhadap benda lain, benda yang mendapat gaya itu akan memberikan gaya yang besarnya sama dengan gaya yang diterima dari benda pertama, tetapi arahnya berlawanan. \n\nAplikasi NEWTON-3 merupakan aplikasi yang dapat menghitung setiap aksi yang berkonsekuensi memunculkan reaksi. Terdapat 3 jenis Hukum Newton, yaitu gaya gesek, gaya berat, dan berat sejenis. \n\nAplikasi ini dibuat untuk memenuhi Assessment 1 - Mobpro 1. \n\nCopyright © 2024  Ghania Raushan Fayyaza (6706223034).\n\nAll rights reserved</string>
+
+    <string name="intro">Mari berhitung Hukum Aksi-Reaksi!</string>
+    <string name="hitung">Hitung</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="bagikan">Bagikan</string>
+
+    <string name="gaya_gesek">Gaya Gesek</string>
+    <string name="gaya_normal">Gaya Normal</string>
+    <string name="gaya_gesek_x">Gaya gesek yang dihasilkan adalah %1$.2f N</string>
+    <string name="template1">Koefisien Gesekan : %1$s \nGaya Normal : %2$s N \n%3$s</string>
+
+    <string name="gaya_berat">Gaya Berat</string>
+    <string name="massa_benda">Massa Benda</string>
+    <string name="gravitasi">Gravitasi Bumi</string>
+    <string name="gaya_berat_x">Gaya berat yang dihasilkan adalah %1$.2f N</string>
+    <string name="template2">Massa Benda : %1$s kg \nGravitasi Bumi : %2$s m/s2 \n%3$s</string>
+
+    <string name="berat_sejenis">Berat Jenis</string>
+    <string name="massa_jenis">Massa Jenis</string>
+    <string name="berat_benda">Berat Benda</string>
+    <string name="berat_sejenis_x">Berat jenis yang dihasilkan adalah %1$.2f N/m3</string>
+    <string name="template3">Massa Jenis : %1$s kg/m3 \nBerat Benda : %2$s N \n%3$s</string>
+    <string name="koefisien">Koefisien Gesekan</string>
+</resources>
