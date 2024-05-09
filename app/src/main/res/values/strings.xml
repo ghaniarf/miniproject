@@ -1,10 +1,12 @@
 <resources>
-    <string name="app_name">NEWTON-3</string>
+    <string name="app_name">NewtonLab</string>
     <string name="mulai">Mulai</string>
+    <string name="hitung_app">Newton-3</string>
     
     <string name="kembali">Kembali</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
-    <string name="copyright">Bunyi Hukum Newton 3 adalah, Setiap aksi akan menimbulkan sebuah reaksi. Apabila suatu benda memberi gaya terhadap benda lain, benda yang mendapat gaya itu akan memberikan gaya yang besarnya sama dengan gaya yang diterima dari benda pertama, tetapi arahnya berlawanan. \n\nAplikasi NEWTON-3 merupakan aplikasi yang dapat menghitung setiap aksi yang berkonsekuensi memunculkan reaksi. Terdapat 3 jenis Hukum Newton, yaitu gaya gesek, gaya berat, dan berat sejenis. \n\nAplikasi ini dibuat untuk memenuhi Assessment 1 - Mobpro 1. \n\nCopyright © 2024  Ghania Raushan Fayyaza (6706223034).\n\nAll rights reserved</string>
+    <string name="copyright">Aplikasi NewtonLab merupakan aplikasi yang dapat mencatat kegiatan praktikum fisika dan memungkinkan untuk menghitung setiap aksi yang berkonsekuensi memunculkan reaksi.
+        \n\nBunyi Hukum Newton 3 adalah, Setiap aksi akan menimbulkan sebuah reaksi. Apabila suatu benda memberi gaya terhadap benda lain, benda yang mendapat gaya itu akan memberikan gaya yang besarnya sama dengan gaya yang diterima dari benda pertama, tetapi arahnya berlawanan.  \n\nAplikasi ini dibuat untuk memenuhi Assessment 2 - Mobpro 1. \n\nCopyright © 2024  Ghania Raushan Fayyaza (6706223034).\n\nAll rights reserved</string>
 
     <string name="intro">Mari berhitung Hukum Aksi-Reaksi!</string>
     <string name="hitung">Hitung</string>
@@ -28,4 +30,22 @@
     <string name="berat_sejenis_x">Berat jenis yang dihasilkan adalah %1$.2f N/m3</string>
     <string name="template3">Massa Jenis : %1$s kg/m3 \nBerat Benda : %2$s N \n%3$s</string>
     <string name="koefisien">Koefisien Gesekan</string>
+
+    <string name="list_kosong">Belum ada data</string>
+    <string name="tambah_praktikum">Tambah Praktikum</string>
+
+    <string name="rangkuman">Rangkuman Praktikum</string>
+    <string name="judul">Judul Catatan</string>
+    <string name="edit_praktikum">Edit Praktikum</string>
+    <string name="simpan">Simpan</string>
+    <string name="invalid">Judul Praktikum, Lab Praktikum, dan Rangkuman Tidak Boleh Kosong!</string>
+    <string name="lainnya">Opsi Lainnya</string>
+    <string name="hapus">Hapus Catatan Praktikum</string>
+
+    <string name="pesan_hapus">Hapus Praktikum Ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+    <string name="newton">Hitung Newton-3</string>
 </resources>
