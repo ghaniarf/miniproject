@@ -45,7 +45,6 @@
     <string name="grid">Tampilan Grid</string>
     <string name="newton">Hitung Newton-3</string>
     <string name="intro">Mari berhitung Hukum Aksi-Reaksi!</string>
-    <string name="intro">Mari berhitung Hukum Aksi-Reaksi!</string>
     <string name="template1">Koefisien Gesekan : %1$s  Gaya Normal : %2$s N  %3$s</string>
     <string name="tombol_batal">Batal</string>
 </resources>
