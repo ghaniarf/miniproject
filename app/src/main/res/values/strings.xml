@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Orbit-K</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="copyright">Orbit- K merupakan aplikasi yang dapat menyimpan informasi dan data data planet yang berkaitan dengan hukum Kepler.
+        \n\nAplikasi ini dibuat untuk memenuhi Assessment 3 - Mobpro 1
+        \n\nDibuat oleh Ghania Raushan Fayyaza (6706223034).</string>
+    <string name="tambah_planet">Tambah Planet</string>
+    <string name="mulai">Mulai</string>
+    <string name="profil">Profil</string>
+    <string name="nama">Nama Planet</string>
+    <string name="luas">Luas Planet</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="luasnya">Luas: </string>
+    <string name="km"> km²</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="konfirmasi_hapus">Yakin ingin menghapus?</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="hapus">Hapus</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="template_bagikan">Apakah kamu tau? Planet %1$s memiliki luas %2$s km² loh! Mau tau lebih banyak lagi? Ayo gunakan aplikasi %3$s</string>
+</resources>
